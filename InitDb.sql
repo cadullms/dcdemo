@@ -3,7 +3,7 @@ create table if not exists Lines
     Line VARCHAR(120)
 );
 
-DELETE FROM helloworld;
+DELETE FROM Lines;
 
 INSERT INTO Lines (Line) VALUES ('I am he');
 INSERT INTO Lines (Line) VALUES ('As you are he');
