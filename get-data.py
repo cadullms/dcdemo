@@ -1,5 +1,5 @@
-# So you just want to try out how to work with PostgreSQL
-# in Python and stumble upon a sample like this: https://wiki.postgresql.org/wiki/Psycopg2_Tutorial 
+# So you just want to try out how to work with PostgreSQL in Python and stumble 
+# upon a sample like this: https://wiki.postgresql.org/wiki/Psycopg2_Tutorial 
 
 import psycopg2
 
