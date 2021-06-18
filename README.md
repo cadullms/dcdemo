@@ -11,7 +11,7 @@ This is my personal demo repo for demonstrating something that is a bit more com
 ## Sample Tech
 - [Python 3](https://www.python.org/)
 - [Postgres](https://www.postgresql.org/)
-- [psycopg2 library](https://wiki.postgresql.org/wiki/Psycopg2_Tutorial ) (now ain't **that** a nerdy name - is there a nice way of pronouncing this? Like maybe "Psych Cop 2"? :-))
+- [psycopg2 library](https://wiki.postgresql.org/wiki/Psycopg2_Tutorial) 
 - [The matching VS Code Remote Container Template](https://github.com/microsoft/vscode-dev-containers/tree/v0.183.0/containers/python-3-postgres)
 
 ## Demo in GitHub Codespaces
@@ -45,7 +45,7 @@ This is my personal demo repo for demonstrating something that is a bit more com
    code .
    ```
 
-1. Within VS Code, hit your command shortcut (e.g. `F1`) and search for "Remote Container". Choose *Remote Containers: Add Development Container Configuration Files...*, follow selections.
+1. Within VS Code, hit your command shortcut (e.g. `F1`) and search for "Remote Container". Choose *Remote Containers: Add Development Container Configuration Files...*, then answer any questions for parameters like the Python version that VS Code will pop up.
 
 1. Hit command shortcut again, search "Reopen in container", choose *Remote Containers: Reopen in Container*.
 
@@ -55,7 +55,7 @@ This is my personal demo repo for demonstrating something that is a bit more com
    pip3 install psycopg2
    ```
 
-1. With the VS Code Explorer, create the python and sql files manually, get the content in from this repo, play around, have fun!
+1. With the VS Code Explorer, create the python and SQL files manually, get the content in from this repo, play around, have fun!
 
 ## Demo locally from this repo
 
